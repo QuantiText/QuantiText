@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: QuantiText
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Matthew
+    family-names: Pieterse
+repository-code: 'https://github.com/QuantiText/QuantiText'
+url: 'https://www.linkedin.com/in/mattpieterse'
+abstract: >-
+  Open-source text quantification and analysis tools for
+  professionals, academics, and anyone looking to gain
+  actionable insights from their writings.
+license: GPL-3.0-or-later
+version: 0.0.0-or-greater
+date-released: '2024-11-23'
